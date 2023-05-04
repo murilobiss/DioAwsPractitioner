@@ -11,7 +11,7 @@
 
 ## 💎 Projeto
 
-É uma API de listagem de raças de cachorros.Foi utilizado AWS lambda para esse projeto.
+É uma API de listagem de raças de cachorros. Foi utilizado AWS lambda para esse projeto.
 
 ## 📦 Instalar
 
@@ -36,9 +36,5 @@ A Aplicação roda na porta **3000**.
 - javascript
 - AWS Lambda
 - serverless framework
-
-<div align="center">
-
-Feito por Janapc 🤘 [Entre em contato!](https://www.linkedin.com/in/janaina-pedrina/)
 
 </div>
